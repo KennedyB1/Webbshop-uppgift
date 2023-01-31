@@ -8,7 +8,6 @@ Teknikstack - HTML, CSS, Javascript.
 Lighthouse
 ![lighthouse accesibility munk](https://user-images.githubusercontent.com/114926854/205509869-1bb85ff8-276b-4c78-91fd-2e51774cdf05.png)
 ![lighthouse best practices munk](https://user-images.githubusercontent.com/114926854/205509871-abec5b98-1287-48ab-9324-782af221ddc5.png)
-![lighthouse performance munk](https://user-images.githubusercontent.com/114926854/205509875-3d0a4bad-0d6c-4b25-86f1-b55bbaaa02eb.png)
 ![lighthouse seo munk](https://user-images.githubusercontent.com/114926854/205509876-52af357a-5dfc-4dab-999c-75683642937d.png)
 
 HTML samt CSS validering
